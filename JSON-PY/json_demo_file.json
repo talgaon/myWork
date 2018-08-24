@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Colette",
+        "age": "22",
+        "hometown": "Scarsdale",
+        "DOB": "02/09/1996"
+    },
+    {
+        "name": "Christina",
+        "age": "19",
+        "hometown": "Flushing Meadows",
+        "DOB": "01/01/1999"
+    },
+    {
+        "name": "Brittney",
+        "age": "19",
+        "hometown": "Long Island",
+        "DOB": "01/01/1999"
+    },
+    {
+        "name": "Maria",
+        "age": "22",
+        "hometown": "Savannah",
+        "DOB": "03/09/1996"
+    },
+    {
+        "name": "Marc",
+        "age": "22",
+        "hometown": "Beaumont",
+        "DOB": "01/16/1996"
+    },
+    {
+        "name": "Lucy",
+        "age": "20",
+        "hometown": "Nashville",
+        "DOB": "07/07/1998"
+    },
+    {
+        "name": "Bianca",
+        "age": "15",
+        "hometown": "Scarsdale",
+        "DOB": "11/12/2002"
+    }
+]
